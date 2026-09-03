@@ -12,9 +12,9 @@ Hardware:
 
 FPS / Frame Time: 180/4ms
 
-Memory: 2gb
+Memory: 3gb
 
-GC Alloc: 2.4gb
+GC Alloc: 3.4gb
 
 Build Size: 9.8mb
 
@@ -41,6 +41,10 @@ Load Time: 1 ms
 # Measurements After Changes
 
 FPS / Frame Time: 280/3ms
+
+Memory: 2gb
+
+GC Alloc: 2.4gb
 
 # Remaining Issues
 
